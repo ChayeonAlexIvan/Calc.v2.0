@@ -186,16 +186,7 @@ namespace Calc.v2._0
             num2 = null;
             isOperationTwo = false;
             isSaveResultTwo = false;
-            //if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
-            //{
-            //    string text = textHistory.Text;
-            //    text += textResult.Text;
-            //    string fileText = folderBrowserDialog1.SelectedPath;
-            //    StreamWriter sw = new StreamWriter(new FileStream(fileText + "\\Test.txt", FileMode.Append, FileAccess.Write));
-            //    sw.WriteLine("Было выполнено: " + DateTime.Now);
-            //    sw.WriteLine("Выражение: " + text);
-            //    sw.Close();
-            //}
+            
         }
         private void buttonResetNumber(object obj, EventArgs e)
         {
