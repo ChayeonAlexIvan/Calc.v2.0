@@ -187,6 +187,7 @@ namespace Calc.v2._0
             isOperationTwo = false;
             isSaveResultTwo = false;
             int a = 01;
+            int b = 01;
         }
         private void buttonResetNumber(object obj, EventArgs e)
         {
