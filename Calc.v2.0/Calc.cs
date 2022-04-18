@@ -191,7 +191,7 @@ namespace Calc.v2._0
         }
         private void buttonResetNumber(object obj, EventArgs e)
         {
-            if(textResult.Text.Length <= 0)
+            if(textResult.Text.Length <= 7)
             {
                 return;
             }
